@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\C94_practice"
+		},
+		{
+			"path": "..\\..\\class89"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\Project-89"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "class89"
+	}
+}
